@@ -3,10 +3,13 @@
  * @author dam125 & dam127
  */
 public class Calculadora {
-    public int suma(int x, int y){
+    public double suma(double x, double y){
         return x+y;
     }
-    public int resta(int x,int y){
+    public double resta(double x,double y){
         return x-y;
+    }
+    public double multiplicacion(double x,double y){
+        return x*y;
     }
 }
