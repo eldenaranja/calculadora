@@ -24,4 +24,7 @@ public class Calculadora {
     public double logaritmo10(double x){
         return Math.log10(x);
     }
+    public double logaritmoE(double x){
+        return Math.log(x);
+    }
 }
