@@ -1,9 +1,12 @@
 /**
- * Víctor García Aldariz
- * @author dam125
+ * Víctor García Aldariz & Sergio Ceán
+ * @author dam125 & dam127
  */
 public class Calculadora {
     public int suma(int x, int y){
         return x+y;
+    }
+    public int resta(){
+        return 2;
     }
 }
