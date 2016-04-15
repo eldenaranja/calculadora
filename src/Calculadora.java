@@ -21,4 +21,7 @@ public class Calculadora {
     public double raiz(double x,double y){
         return Math.pow(x,1/y);
     }
+    public double logaritmo10(double x){
+        return Math.log10(x);
+    }
 }
