@@ -15,4 +15,7 @@ public class Calculadora {
     public double division(double x,double y){
         return x/y;
     }
+    public double potencia(double x, double y){
+        return Math.pow(x, y);
+    }
 }
