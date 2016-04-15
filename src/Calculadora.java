@@ -12,4 +12,7 @@ public class Calculadora {
     public double multiplicacion(double x,double y){
         return x*y;
     }
+    public double division(double x,double y){
+        return x/y;
+    }
 }
